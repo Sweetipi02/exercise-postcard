@@ -1,5 +1,5 @@
 <!-- hide -->
-# The Postcard
+# The Postcard -> https://sweetipi02.github.io/exercise-postcard/
 <!-- endhide -->
 
 Who does not like postcards? This is one of your first exercises (if not the first), and it's fun and relatively easy :)
